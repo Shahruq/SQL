@@ -16,7 +16,7 @@ INSERT into student values(
 INSERT into student values(
 2, 'Safi', 'Engineering'); 
 
-Insert into student(student_id, name) values(3, 'Sana');
+Insert into student(student_id, name) values(3, 'Rafi');
 
 select * from student; #selects all the values from the table
 
